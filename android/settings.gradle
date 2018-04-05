@@ -1,0 +1,3 @@
+rootProject.name = 'pikachu_frontend'
+
+include ':app'
